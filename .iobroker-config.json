@@ -1,0 +1,7 @@
+{
+  "ioBrokerUrl": "http://192.168.178.150",
+  "socketIoPort": 8888,
+  "scriptRoot": "scripts",
+  "adminVersion": "admin6",
+  "allowSelfSignedCertificate": false
+}
